@@ -1,0 +1,5 @@
+openai==1.10.0
+pydub==0.25.1
+
+# Local
+ipython==8.21.0
